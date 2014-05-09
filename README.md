@@ -8,9 +8,11 @@ Bot generated from a markov chain of everything George Costanza says in Seinfeld
 
 ## How this particular sausage was made
 
+or "instructions for Future Bert if he wants to do this again".
+
 This was mostly just an excuse to play with [twitter_ebooks](https://github.com/mispy/twitter_ebooks).
 
-First I started with [seinfeld-scripts](https://github.com/colinpollock/seinfeld-scripts).
+First, start with [seinfeld-scripts](https://github.com/colinpollock/seinfeld-scripts).
 
 Next, patch it with this [fix](https://github.com/cschep/seinfeld-scripts/blob/d34dd1deac1b71c760f59bf810494b51e5b87042/download.sh).
 

@@ -2,6 +2,10 @@
 
 Bot generated from a markov chain of everything George Costanza says in Seinfeld.
 
+## Usage
+
+`./test.rb` will spit out an example tweet.
+
 ## How this particular sausage was made
 
 This was mostly just an excuse to play with [twitter_ebooks](https://github.com/mispy/twitter_ebooks).

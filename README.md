@@ -47,6 +47,8 @@ Create a skeleton for the bot.
 
 Move `costanza.txt` into the `corpus` directory.
 
+Consume the lines into a Markov model:
+
 ```
 ebooks consume corpus/costanza.txt
 ```

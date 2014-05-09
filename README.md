@@ -1,6 +1,6 @@
 # costanzabot
 
-Bot generated from a markov chain of everything George Costanza says in Seinfeld.
+Bot generated from a markov chain of everything George Costanza says in Seinfeld
 
 ## Usage
 
